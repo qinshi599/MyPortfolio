@@ -34,12 +34,13 @@ const Work = ({ isDarkMode }) => {
             initial={{ opacity:0 }}
             whileInView={{ opacity:1}}
             transition={{ delay: 0.9, duration: 0.6}}
-            className="grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-4 my-10 gap-5 dark:text-black">
+            className="grid sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 my-10 gap-5 dark:text-black">
                 {workData.map((project, index) => (
                    <motion.div 
                    whileHover={{ scale:1.05 }}
                    transition={{ duration: 0.3 }}
                    key={index} 
+                   onClick={() => window.open(project.link, '_blank')}
                     className="aspect-square bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group"
                     style={{ backgroundImage: `url(${project.bgImage})` }}>
                    
