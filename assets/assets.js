@@ -79,21 +79,21 @@ export const assets = {
 export const workData = [
   {
     title: "Full-Stack Project",
-    description: "Web Design, Django, JavaScript, AWS",
+    description: "Bootstrap, JavaScript, AWS",
     bgImage: "/work-1.png",
-    link: "https://virtualemerge.norashi.link/", 
+    link: "virtualemerge.norashi.link/", 
   },
   {
-    title: "Geo based app",
-    description: "Mobile App",
+    title: "E-Commerce Shop",
+    description: "Wordpress",
     bgImage: "/work-2.png",
-    link: "https://your-project-2-link.com", 
+    link: "wordpress-lab.norashi.link", 
   },
   {
-    title: "Photography site",
-    description: "Web Design",
+    title: "Health Referral System",
+    description: "Django,SQLite, Bootstrap ",
     bgImage: "/work-3.png",
-    link: "https://your-project-3-link.com", 
+    link: "enzedhealthcare.norashi.link", 
   },
   {
     title: "UI/UX designing",
