@@ -96,10 +96,24 @@ export const workData = [
     link: "enzedhealthcare.norashi.link", 
   },
   {
-    title: "UI/UX designing",
-    description: "UI/UX Design",
+    title: "Miles-Davis Tribute Page",
+    description: "Bootstrap",
     bgImage: "/work-4.png",
+    link: "miles-davis.norashi.link",
   },
+  {
+    title: "ChessMaze Game",
+    description: "C#",
+    bgImage: "/work-5.png",
+    link: "github.com/qinshi599/ChessMazeGame",
+  },
+  {
+    title: "Triathlon Workout App",
+    description: "JavaScript, React, Vite",
+    bgImage: "/work-6.png",
+    link: "github.com/qinshi599/Triathlon-app-react",
+  },
+  
 ];
 
 export const serviceData = [
@@ -136,7 +150,7 @@ export const infoList = [
     icon: assets.code_icon,
     iconDark: assets.code_icon_dark,
     title: "Languages",
-    description: "HTML, CSS, JavaScript React Js, Next Js, python, c#",
+    description: "HTML, Bootstrap, Tailwind CSS, JavaScript, React Js, Vite, Next Js, Python, C#",
   },
   {
     icon: assets.edu_icon,
