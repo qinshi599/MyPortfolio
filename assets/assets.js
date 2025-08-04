@@ -81,39 +81,38 @@ export const workData = [
     title: "Full-Stack Project",
     description: "Bootstrap, JavaScript, AWS",
     bgImage: "/work-1.png",
-    link: "virtualemerge.norashi.link/", 
+    link: "https://virtualemerge.norashi.link/", 
   },
   {
     title: "E-Commerce Shop",
     description: "Wordpress",
     bgImage: "/work-2.png",
-    link: "wordpress-lab.norashi.link", 
+    link: "https://wordpress-lab.norashi.link", 
   },
   {
     title: "Health Referral System",
     description: "Django,SQLite, Bootstrap ",
     bgImage: "/work-3.png",
-    link: "enzedhealthcare.norashi.link", 
+    link: "https://enzedhealthcare.norashi.link", 
   },
   {
     title: "Miles-Davis Tribute Page",
     description: "Bootstrap",
     bgImage: "/work-4.png",
-    link: "miles-davis.norashi.link",
+    link: "https://miles-davis.norashi.link",
   },
   {
     title: "ChessMaze Game",
     description: "C#",
     bgImage: "/work-5.png",
-    link: "github.com/qinshi599/ChessMazeGame",
+    link: "https://github.com/qinshi599/ChessMazeGame",
   },
   {
     title: "Triathlon Workout App",
     description: "JavaScript, React, Vite",
     bgImage: "/work-6.png",
-    link: "github.com/qinshi599/Triathlon-app-react",
+    link: "https://github.com/qinshi599/Triathlon-app-react",
   },
-  
 ];
 
 export const serviceData = [
